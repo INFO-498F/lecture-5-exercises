@@ -1,4 +1,4 @@
-#### Section 1 #### 
+### Exercise 1 ###
 
 # Using the "setwd" function, set your working directory as the directory of your repository
 setwd('~/Documents/INFO-498F/lecture-5-exercises')
@@ -38,8 +38,4 @@ smallest_recipient <- org[spending == lowest_amount]
 
 # How many grants were awarded in 2010?
 length(spending[grants$start_year == 2008])
-
-as.data.frame(lowest_amount, highest_amount)
-#### Section 2 #### 
-
 
