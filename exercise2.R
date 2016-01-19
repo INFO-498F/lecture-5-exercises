@@ -51,5 +51,5 @@ how_popular <- function(my_name, my_year) {
 }
 
 # How popular was the name 'Laura' in 1995
-how_popular('Sophia', 2013)
+how_popular('Laura', 1995)
 
